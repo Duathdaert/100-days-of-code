@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
+## Goals 
+    - learn to create software with Python,
+    - learn to develop machine learning algos with Python,
+    - possible final output: UK COVID-19 case tracker? (to be fleshed out...),
+    - create ideas for using machine learning at work
+        - maintenance prediction for parts on BioAccord?
+        - build failure tracker?
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+        
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: 24/05/2020
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Began Python course.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Confusing, Python is quite different to .NET. I think the lack of brackets may confuse me to begin with. Different syntax for creating methods/functions/classes etc to get familiar with. Overall I am excited - I am looking forwards to getting to grips with Python and learning some machine learning.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Course](https://app.pluralsight.com/library/courses/core-python-functions-functional-programming/table-of-contents)
