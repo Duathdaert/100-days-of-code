@@ -17,3 +17,13 @@
 
 **Link(s) to work**
 1. [Course](https://app.pluralsight.com/library/courses/core-python-functions-functional-programming/table-of-contents)
+
+### Day 2: 25/05/2020
+
+**Today's Progress**: Extended Formal Argument syntax and positive lower limit args 
+    func(arg1, *args). Created and used a module in the Python console.
+
+**Thoughts**: Python console is cool. The ability to create functions on the fly to try an idea is powerful. I also liked using the '*' syntax preceeding an argument as a way to allow numerous named arguments of the same type.
+
+**Link(s) to work**
+1. [Course](https://app.pluralsight.com/library/courses/core-python-functions-functional-programming/table-of-contents)
