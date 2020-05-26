@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [Course](https://app.pluralsight.com/library/courses/core-python-functions-functional-programming/table-of-contents)
+
+### Day 3: 26/05/2020
+
+**Today's Progress**: Extended Call syntax and and positional only arguments 
+
+**Thoughts**: Extended calls once I waded through the weird nature of the built in int() function are fine. Simply passing arguments from one function to another. Positional only arguments - arguments that can only be passed positionally. Weird, not sure why it matters, but another feature of Python I guess.
+
+**Link(s) to work**
+1. [Course](https://app.pluralsight.com/library/courses/core-python-functions-functional-programming/table-of-contents)
