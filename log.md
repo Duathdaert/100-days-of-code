@@ -36,3 +36,11 @@
 
 **Link(s) to work**
 1. [Course](https://app.pluralsight.com/library/courses/core-python-functions-functional-programming/table-of-contents)
+
+### Day 4: 27/05/2020
+**Today's Progress**: First class functions, local functions, name resolution
+
+**Thoughts**: All sensible stuff, local functions are really neat. Can replace private functions for only one thing as in C#. Assigning a function to a local variable (first class functions)
+
+**Link(s) to work**
+1. [Course](https://app.pluralsight.com/library/courses/core-python-functions-functional-programming/table-of-contents)
